@@ -1,2 +1,2 @@
 # master
-# create master for slidify slides
+# master for slidify slides
